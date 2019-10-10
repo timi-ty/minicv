@@ -1,5 +1,5 @@
 # MiniCV
-#LLColorizer:
+#LLColorizer
 #Cartoonizer
 
 Intro to the basics of computer vision using python
